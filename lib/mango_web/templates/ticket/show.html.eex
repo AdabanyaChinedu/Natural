@@ -1,0 +1,16 @@
+<h2>Ticket #<%= @ticket.id %>  <%= @ticket.subject %></h2>
+
+ 
+  <p>
+    <strong>Status:</strong>
+    <%= @ticket.status %>
+  </p>
+
+
+  <p>    
+    <%= @ticket.message %>
+  </p>
+
+
+
+<span><%= link "Back", to: ticket_path(@conn, :index), class: "btn btn-default btn-xs" %></span>

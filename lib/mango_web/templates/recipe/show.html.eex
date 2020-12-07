@@ -1,0 +1,53 @@
+
+<div class="row">
+  <div class="col-md-7">
+    <h1 class="media-heading"><%= @recipe["name"]%></h1>
+    <p class="lead">Aenean sollicitudin lacus vel semper lacinia</p>
+
+    <div class="media">
+      <div class="media-left">
+        <a href="#">
+          <img alt="64x64" class="media-object" data-src="holder.js/64x64" style="width: 250px; height: 250px;" src=<%= @recipe["image_path"]%> />
+        </a>
+        <p>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> Cooking: <%= @recipe["cooking"]%>mins.</br>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> Preparation: <%= @recipe["preparation"]%>mins.</br>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> Ready: <%= @recipe["ready"]%>mins.</br>
+        </p>
+        <p><strong>Ingredient:</strong></br>
+        rice vegetable onion carrot</p>
+      </div>
+      <div class="media-body">
+        <p>
+          <strong>Calorie:  </strong><%= @recipe["calorie"]%> Kcal    <strong>Serving:  </strong><%= @recipe["serving"]%> mins
+        </p>
+          <strong>Direction:</strong></br>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris libero justo, euismod at lectus vitae, accumsan cursus mi. Aenean et ante sapien. Aliquam erat volutpat. Nunc scelerisque massa sem, nec bibendum ipsum euismod eget. Curabitur justo neque, efficitur sit amet magna non, facilisis consequat enim. Integer vulputate mauris in turpis vestibulum fermentum. Donec aliquam, neque non finibus molestie, dui metus eleifend enim, id varius nunc lorem nec eros. Integer fringilla, ipsum sed eleifend tristique, tortor ante venenatis quam, eu vehicula nibh ipsum ut felis. In eros dui, scelerisque ut erat in, suscipit dignissim erat. Proin sed consequat velit. Nunc imperdiet euismod eleifend</p><p>In vitae pulvinar tortor, in auctor massa. Sed venenatis metus vitae libero hendrerit, a aliquet lacus posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed eget tincidunt dui. Nam eu nulla elementum, viverra elit dapibus, accumsan purus. Morbi rhoncus augue a tellus auctor, et scelerisque felis convallis. Mauris sed felis vitae eros imperdiet elementum eget id nulla. Aliquam erat nunc, commodo suscipit lobortis eu, maximus id metus. Nam convallis convallis nunc, non sodales massa sodales pulvinar. Fusce efficitur eros ac ante elementum, eu euismod quam mattis. Proin et nisl justo.</p>        </p>
+
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4 col-md-offset-1">
+      <div class="chat-box">
+
+  <h3>Join the discussion</h3>
+  <ul id="recipe-chat-room" class="chat">
+    <li class="clearfix">
+      <div class="chat-body clearfix">
+        <p id="empty-text"> Start a conversation!</p>
+      </div>
+    </li>
+  </ul>
+  <div class="chat-input input-group">
+    <input id="btn-input" type="text" class="form-control" placeholder="Type your message here...">
+    <span class="input-group-btn">
+      <button class="btn btn-primary" id="btn-chat">
+        Send</button>
+    </span>
+  </div>
+</div>
+
+
+
+  </div>
+</div>

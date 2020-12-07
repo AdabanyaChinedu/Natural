@@ -1,0 +1,118 @@
+
+<h2>Recipes</h2>
+<div class="row">
+  <div class="recipe col-sm-6">
+    <div class="media">
+      <div class="media-left">
+        <a href="#">
+          <img alt="64x64" class="media-object" data-src="holder.js/64x64" style="width: 150px; height: 150px;" src="/recipe_images/idly.jpeg">
+        </a>
+        <p>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> Cooking: 10mins.<br>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> Preparation: 10mins.<br>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> Ready: 13mins.<br>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> Serving: 15mins.<br>
+        </p>
+      </div>
+      <div class="media-body">
+        <h1 class="media-heading">Idly</h1>
+        <p class="lead">Aenean sollicitudin lacus vel semper lacinia</p>
+
+        <p><a class="btn btn-primary pull-right" href="/recipes/1">Read</a>
+      </p></div>
+    </div>
+  </div>
+  <div class="recipe col-sm-6">
+    <div class="media">
+      <div class="media-left">
+        <a href="#">
+          <img alt="64x64" class="media-object" data-src="holder.js/64x64" style="width: 150px; height: 150px;" src="/recipe_images/biriyani.jpeg">
+        </a>
+        <p>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Cooking: 20mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Preparation: 12mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Ready: 14mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Serving: 12mins.<br>
+
+        </p>
+
+      </div>
+      <div class="media-body">
+        <h1 class="media-heading">Biriyani</h1>
+        <p class="lead">Aenean sollicitudin lacus vel semper lacinia</p>
+
+        <p><a class="btn btn-primary pull-right" href="/recipes/2">Read</a>
+      </p></div>
+    </div>
+  </div>
+  <div class="recipe col-sm-6">
+    <div class="media">
+      <div class="media-left">
+        <a href="#">
+          <img alt="64x64" class="media-object" data-src="holder.js/64x64" style="width: 150px; height: 150px;" src="/recipe_images/chapathi.jpeg">
+        </a>
+        <p>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Cooking: 15mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Preparation: 20mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Ready: 12mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Serving: 10mins.<br>
+
+        </p>
+
+      </div>
+      <div class="media-body">
+        <h1 class="media-heading">Chapathi</h1>
+        <p class="lead">Aenean sollicitudin lacus vel semper lacinia</p>
+
+        <p><a class="btn btn-primary pull-right" href="/recipes/3">Read</a>
+      </p></div>
+    </div>
+  </div>
+  <div class="recipe col-sm-6">
+    <div class="media">
+      <div class="media-left">
+        <a href="#">
+          <img alt="64x64" class="media-object" data-src="holder.js/64x64" style="width: 150px; height: 150px;" src="/recipe_images/dosa.jpeg">
+        </a>
+        <p>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Cooking: 5mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Preparation: 12mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Ready: 13mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Serving: 12mins.<br>
+
+        </p>
+
+      </div>
+      <div class="media-body">
+        <h1 class="media-heading">Dosa</h1>
+        <p class="lead">Aenean sollicitudin lacus vel semper lacinia</p>
+
+        <p><a class="btn btn-primary pull-right" href="/recipes/4">Read</a>
+      </p></div>
+    </div>
+  </div>
+  <div class="recipe col-sm-6">
+    <div class="media">
+      <div class="media-left">
+        <a href="#">
+          <img alt="64x64" class="media-object" data-src="holder.js/64x64" style="width: 150px; height: 150px;" src="/recipe_images/uppma.jpeg">
+        </a>
+        <p>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Cooking: 6mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Preparation: 12mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Ready: 13mins.<br>
+        <i class="fa fa-clock-o" aria-hidden="true"></i> Serving: 12mins.<br>
+
+        </p>
+
+      </div>
+      <div class="media-body">
+        <h1 class="media-heading">Uppma</h1>
+        <p class="lead">Aenean sollicitudin lacus vel semper lacinia</p>
+
+        <p><a class="btn btn-primary pull-right" href="/recipes/5">Read</a>
+      </p></div>
+    </div>
+  </div>
+</div>
+<script src="holder.js"></script>

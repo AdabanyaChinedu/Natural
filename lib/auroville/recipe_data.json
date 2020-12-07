@@ -1,0 +1,70 @@
+{
+    "recipes" : [
+    {
+        "id": "1",
+        "name": "Idly",
+        "title": "Aenean sollicitudin lacus vel semper lacinia",
+        "cooking": 10,
+        "preparation": 10,
+        "ready": 13,
+        "ingredient": ["rice", "vegetable", "onion", "carrot"],
+        "calorie": 10,
+        "serving": 15,
+        "direction": "fsdfddfsdsd",
+        "image_path": "/recipe_images/idly.jpeg"
+    },
+    {
+        "id": "2",
+        "name": "Biriyani",
+        "title": "Aenean sollicitudin lacus vel semper lacinia",
+        "cooking": 20,
+        "preparation": 12,
+        "ready": 14,
+        "ingredient": ["rice", "vegetable", "onion", "carrot"],
+        "calorie": 12,
+        "serving": 12,
+        "direction": "fsdfddfsdsd",
+        "image_path": "/recipe_images/biriyani.jpeg"
+    },
+    {
+        "id": "3",
+        "name": "Chapathi",
+        "title": "Aenean sollicitudin lacus vel semper lacinia",
+        "cooking": 15,
+        "preparation": 20,
+        "ready": 12,
+        "ingredient": ["rice", "vegetable", "onion", "carrot"],
+        "calorie": 12,
+        "serving": 10,
+        "direction": "fsdfddfsdsd",
+        "image_path": "/recipe_images/chapathi.jpeg"
+    },
+    {
+        "id": "4",
+        "name": "Dosa",
+        "title": "Aenean sollicitudin lacus vel semper lacinia",
+        "cooking": 5,
+        "preparation": 12,
+        "ready": 13,
+        "ingredient": ["rice", "vegetable", "onion", "carrot"],
+        "calorie": 12,
+        "serving": 12,
+        "direction": "fsdfddfsdsd",
+        "image_path": "/recipe_images/dosa.jpeg"
+    },
+    {
+        "id": "5",
+        "name": "Uppma",
+        "title": "Aenean sollicitudin lacus vel semper lacinia",
+        "cooking": 6,
+        "preparation": 12,
+        "ready": 13,
+        "ingredient": ["rice", "vegetable", "onion", "carrot"],
+        "calorie": 12,
+        "serving": 12,
+        "direction": "fsdfddfsdsd",
+        "image_path": "/recipe_images/uppma.jpeg"
+    }
+    ]
+
+}
